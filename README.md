@@ -1,2 +1,4 @@
 # Airplane Game
-This was a game. Open this page at [https://uberbuilder24.github.io/airplane-game/](https://uberbuilder24.github.io/airplane-game/)
+This is a MakeCode Arcade game I made for a Code Ninjas competition. 
+
+Play the game on [here](https://uberbuilder24.github.io/airplane-game/)!
